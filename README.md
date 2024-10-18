@@ -18,3 +18,4 @@ To run, use the command `python3 input_circuit.txt output_circuit.csv`
 
 Thorough testing was performed to ensure robustness and speed of execution, the timing code was kept to assure the user the code completes, with the average time being sub 1-second.
 
+Testing was performed using in-built libraries and a testing table, these are kept hidden due to this being partially done as university work.
